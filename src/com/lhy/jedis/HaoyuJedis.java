@@ -8,7 +8,9 @@ import java.net.UnknownHostException;
  * 简单模拟Jedis，实现set(String key, String val)和get(String key)
  * 
  * <p>
- * Jedis的传输协议是TCP，传输过程的报文协议是RESP(REdis Serialization Protocol) RESP 协议的有点有三个
+ * Jedis的传输协议是TCP，传输过程的报文协议是RESP(REdis Serialization Protocol) 
+ * <p>
+ * RESP 协议的优点有三个
  * <p>
  * ·实现简单 ·解析速度快 ·可读性好
  * 
