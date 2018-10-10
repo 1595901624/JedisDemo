@@ -6,11 +6,7 @@
 
 Jedis的传输协议是TCP，传输过程的报文协议是RESP(REdis Serialization Protocol)
 
-<<<<<<< HEAD
-![img]https://raw.githubusercontent.com/1595901624/JedisDemo/master/JedisDemo.gif
-=======
 ![image](https://raw.githubusercontent.com/1595901624/JedisDemo/master/JedisDemo.gif)
->>>>>>> adb3e076bbb9284855032048f4a26d392b23b149
 
 RESP 协议的优点有三个
 
